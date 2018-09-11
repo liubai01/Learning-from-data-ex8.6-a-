@@ -18,6 +18,19 @@ Construct a toy data set with N = 20 using the method in Example 8.4.
 
 [cvxopt](http://cvxopt.org/), [seaborns](http://seaborn.pydata.org/)
 
+## Quick Start
+
+1. Open terminal at target directory(anywhere you want to start this interactive tutorial)
+2. follow these steps:
+
+```shell
+git clone https://github.com/liubai01/Learning-from-data-ex8.6-a-.git
+cd Learning-from-data-ex8.6-a-/
+python comparison.py 
+```
+
 ## Hint
 
-If you have trouble in the code of linear hard-margin SVM classifer, [my another repository](https://github.com/liubai01/hard-margin-SVM-tutorial-by-cvxopt) may provide you enough guidance.
+1. `comparison.py` is the entry of the repository
+
+2. If you have trouble in the code of linear hard-margin SVM classifer, [my another repository](https://github.com/liubai01/hard-margin-SVM-tutorial-by-cvxopt) may provide you enough guidance.
