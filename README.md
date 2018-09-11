@@ -5,7 +5,7 @@ Author: Yintao-Xu, Date: 09/11, 2018
 
 The solution code in Python3 to the exercise 8.6(a) of [learning from data](http://amlbook.com/).  
 
-![](https://github.com/liubai01/hard-margin-SVM-tutorial-by-cvxopt/blob/master/imgs/screenshot_86.png)
+![](https://github.com/liubai01/Learning-from-data-ex8.6-a-/blob/master/Imgs/screenshot_86.png)
 
 ## A brief recall of the question
 
