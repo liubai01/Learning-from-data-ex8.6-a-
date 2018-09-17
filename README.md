@@ -12,7 +12,7 @@ The solution code in Python3 to the exercise 8.6(a) of [learning from data](http
 Construct a toy data set with N = 20 using the method in Example 8.4.
 (a) Run the SVM algorithm to obtain the maximum margin separator (b, w) SVM and compute its E_out and margin.
 
-**Note:** If you want more details(like what is Example8.4), please query the book(e-Chapter8) by yourself. Because it may be offensive if I post all the detailed content in the book.
+**Note:** If you want more details(like what is Example8.4), please query the book(e-Chapter8) by yourself. Because it may offend copyright if I post all the detailed content in the book.
 
 ## Prerequisite
 
@@ -20,7 +20,7 @@ Construct a toy data set with N = 20 using the method in Example 8.4.
 
 ## Quick Start
 
-1. Open terminal at target directory(anywhere you want to start this interactive tutorial)
+1. Open terminal at target directory
 2. follow these steps:
 
 ```shell
